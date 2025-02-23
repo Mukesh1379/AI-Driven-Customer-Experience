@@ -111,7 +111,7 @@ cd ../frontend
 npm run dev
 ```
 
-### **5️⃣ Access the Application**
+### **4️⃣ Access the Application**
 Once the servers are running, open **http://localhost:3000** in your browser.
 
 ---
